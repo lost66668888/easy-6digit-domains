@@ -1,0 +1,15 @@
+# Python cache and bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Logs and local artifacts
+*.log
+
+# OS metadata
+.DS_Store
